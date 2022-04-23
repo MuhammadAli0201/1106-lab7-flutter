@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "asg-2-flutter-group-3"
+  },
+  "targets": {
+    "asg-2-flutter-group-3": {
+      "hosting": {
+        "q2": [
+          "task2-k"
+        ]
+      }
+    }
+  }
+}
